@@ -5,6 +5,17 @@
 # Input     "Hello World"   "Have a great day"  "Python"
 # Output    "HelloWorld"    "Haveagreatday"     "Python"
 
+# my try
+
+# s = "Hello World"
+# new_s = ""
+
+# for char in s:          # for a letter in string:
+#     if char != " ":     # if the letter is not equal to a space
+#         new_s += char   # the letter is included in new string
+        
+# print(new_s)            # print new string
+
 # Option 1
 # s = "Have a great day"
 # new_s = ""
